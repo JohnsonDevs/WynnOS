@@ -1,2 +1,2 @@
 # WynnOS
-        WynnOS is an open source operating system developed by Edward Wynn Johnson. It is an operating system made to be simple and easy to use for the elderly and those who struggle to use technology.
+WynnOS is an open source operating system developed by Edward Wynn Johnson. It is an operating system made to be simple and easy to use for the elderly and those who struggle to use technology.
